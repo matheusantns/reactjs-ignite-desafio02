@@ -7,4 +7,4 @@ Em um primeiro momento, dividi a aplicação em dois componentes principais a pe
 A ideia é nos próximos commits dividir essa aplicação em mais um componente (Header) e usar a ContextAPI do React trabalhada no módulo 02 do curso para praticar.
 
 Obrigado,
-Matheus Antunes
+<br />Matheus Antunes
